@@ -1,6 +1,7 @@
 body {
-  font-family: Jost;
-  cursor: url('/assets/cursor.png'), auto;
+  font-family: 'SuisseIntl-Regular';
+  cursor: url('/assets/Normal.png'), auto;
+  cursor: url('/assets/Alt.png'), pointer;
 }
 .display-1 {
   font-family: 'SuisseIntl-Regular';
