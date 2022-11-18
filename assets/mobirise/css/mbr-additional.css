@@ -1,6 +1,6 @@
 body {
   font-family: 'SuisseIntl-Regular';
-  cursor: url('/assets/Normal.png');
+  cursor: url('/assets/Normal.png'), default;
   cursor: url('/assets/Alt.png'), pointer;
 }
 .display-1 {
