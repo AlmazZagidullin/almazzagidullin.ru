@@ -265,7 +265,8 @@ iframe {
 }
 
 .btn {
-  font-weight: 600;
+  font-weight: 400;
+  font-size: 16px;
   border-width: 1px;
   font-style: normal;
   margin: 0.6rem 0.6rem;
