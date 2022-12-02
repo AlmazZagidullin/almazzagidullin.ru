@@ -19,7 +19,7 @@ body {
 }
 .display-4 {
   font-family: 'SuisseIntl-Regular';
-  font-size: 1.2rem;
+  font-size: 1.7rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
@@ -483,7 +483,7 @@ body {
 a.text-primary:hover,
 a.text-primary:focus,
 a.text-primary.active {
-  color: #cccccc !important;
+  color: #e30b5c !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus,
